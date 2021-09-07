@@ -1,0 +1,9 @@
+CircularRotate	KEYWORD1
+rotate_byte	KEYWORD2
+rotate_word	KEYWORD2
+rotate_dword	KEYWORD2
+rotate_qword	KEYWORD2
+rotate_byteArray	KEYWORD2
+rotate_wordArray	KEYWORD2
+rotate_dwordArray	KEYWORD2
+rotate_qwordArray	KEYWORD2
